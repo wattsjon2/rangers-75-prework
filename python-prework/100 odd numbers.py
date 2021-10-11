@@ -15,3 +15,8 @@ def add100():
 
 print(add100())
 
+def add100():
+    return([value for value in range(1,200,2)])
+
+print(add100())
+
